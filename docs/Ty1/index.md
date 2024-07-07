@@ -1,3 +1,3 @@
 # Getting Started
 
-Add Ty 1 getting started doccumentation
+Add Ty 1 getting started documentation
