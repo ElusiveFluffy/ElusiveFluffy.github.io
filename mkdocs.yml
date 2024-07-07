@@ -41,10 +41,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-  - admonition
-  - pymdownx.arithmatex:
-      generic: true
-  - footnotes
   - pymdownx.details
   - pymdownx.mark
+  - pymdownx.betterem
+  - admonition
   - attr_list
