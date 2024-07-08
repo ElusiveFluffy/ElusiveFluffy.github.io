@@ -3,9 +3,11 @@ hide:
   - navigation
   - toc
 ---
-# Home
-
-**Welcome to the Ty modding wiki!**
+[//]: # (Makes it use Home instead of the header text for the tabs at the top)
+<style>
+  .md-typeset h1
+</style>
+# **Welcome to the Ty modding wiki!**
 
 This wiki contains modding documentation discovered by the Ty modding community, all sorted in one place
 
