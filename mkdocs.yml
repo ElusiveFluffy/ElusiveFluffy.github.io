@@ -1,6 +1,7 @@
 site_name: Ty Modding Wiki
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -25,8 +26,12 @@ theme:
         name: Switch to light mode
       primary: indigo
       accent: amber
-  logo: assets/favicon.png
-  favicon: assets/favicon.png
+  logo_light_mode: assets/GoldCogIcon.png
+  logo_dark_mode: assets/PlatinumCogIcon.png
+  favicon: assets/GoldCogIcon.png
+
+extra_css:
+  - css/LogoToggle.css
 
 extra:
   social:
