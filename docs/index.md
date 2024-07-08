@@ -1,11 +1,16 @@
+---
+hide:
+  - navigation
+  - toc
+---
 # Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Welcome to the Ty modding wiki!**
 
-## Commands
+This wiki contains modding documentation discovered by the Ty modding community, all sorted in one place
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+To get started with modding you can follow the the getting started guides:<br />
+[Ty 1 Getting Started](Ty1/index.md)<br />
+[Ty 2 Getting Started](Ty2/index.md)
 
+You can also navigate through the tabs or use the search bar to find what you need, the wiki is still a work in progress and more is being added to it as more get discovered. If you have any questions about anything Ty modding related feel free to join the [Ty modding discord](https://discord.gg/g8kHTR42Cc)
