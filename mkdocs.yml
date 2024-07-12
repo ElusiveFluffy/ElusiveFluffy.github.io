@@ -2,6 +2,7 @@ site_name: Ty Modding Wiki
 theme:
   name: material
   custom_dir: overrides
+  logo: assets/PlatinumCogIcon.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -39,6 +40,12 @@ theme:
 
 extra_css:
   - css/LogoToggle.css
+
+plugins:
+  - social:
+      cards_layout_options:
+        background_color: orange
+  - search
 
 extra:
   social:
